@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P0671_ProgressDialog</string>
+    <string name="dial_horizont">Horizontal dialog</string>
+    <string name="dial_default">Default dialog</string>
+    <string name="title">Title</string>
+    <string name="btn_ok">OK</string>
+</resources>
